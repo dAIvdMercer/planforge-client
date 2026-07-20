@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.5.0
+
+- Profiles: pro users can create multiple named profiles, each with its own locked topics and Drive folder
+- Starter users see profile upsell
+- Plans scoped to active profile (Drive path: plans/{profile_id}/)
+- Auto-save to profiles/{id}.json on topic lock
+
+## 0.4.0
+
+- Plan management rewrite: HTML rendering, explicit save with editable name, full provenance in .meta.json
+- My Plans hub: view, export, refine, pivot, re-run from any saved plan
+- Plan detail view with rename
+- Export and refine cells use plan selector (no longer assume latest)
+
 ## 0.3.0
 
 - Header cell changed to markdown (no execution needed)
