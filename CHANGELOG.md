@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.0
+
+- Account cell: Subscription tab now shows all tier limits (plans/month, turns/topic, exports/day, etc.)
+- Account cell: new Rotate Key tab for self-service API key rotation
+
 ## 0.5.0
 
 - Profiles: pro users can create multiple named profiles, each with its own locked topics and Drive folder
