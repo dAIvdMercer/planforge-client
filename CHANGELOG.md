@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.8
+
+- My Plans: gap panel instruction clarifies to scroll down and refine with AI
+- My Plans: refine pill stores actual heading text from plan, passes to API (fixes section not found)
+
 ## 0.6.7
 
 - My Plans: gap panel in Refine tab uses section tabs instead of vertical list
