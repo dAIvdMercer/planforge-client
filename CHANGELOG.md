@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.6
+
+- My Plans: remove Gaps tab -- gaps live in Refine tab only
+- My Plans: Fill this gap shows instruction above feedback textarea, not pre-fills it
+
 ## 0.6.5
 
 - My Plans: rename at top of View tab, Edit in Discovery removed, better section matching in Refine pills
