@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.7
+
+- My Plans: gap panel in Refine tab uses section tabs instead of vertical list
+
 ## 0.6.6
 
 - My Plans: remove Gaps tab -- gaps live in Refine tab only
