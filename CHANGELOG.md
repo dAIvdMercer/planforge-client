@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.6.4
+
+- My Plans: Gaps tab with section sub-tabs and Fill this gap button (loads gap into Refine tab)
+
+## 0.6.3
+
+- Refine tab: gap panel capped at 200px with scroll so pills and form are always visible
+
+## 0.6.2
+
+- Generate cell: save dialog moved to top of card (above plan content)
+
 ## 0.6.1
 
 - Profile cell note: starter/pro options on separate lines for readability
