@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.5
+
+- My Plans: rename at top of View tab, Edit in Discovery removed, better section matching in Refine pills
+- My Plans: gaps column handles old plans without gaps key
+
 ## 0.6.4
 
 
