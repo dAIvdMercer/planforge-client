@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.7.1
+
+- My Plans: gap card border/background on VBox so button sits inside the card
+
 ## 0.7.0
 
 - My Plans: gap items rendered as cards (label + why_it_matters + Fill this gap button at bottom-left)
