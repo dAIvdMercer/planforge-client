@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.1
+
+- Profile cell note: starter/pro options on separate lines for readability
+
 ## 0.6.0
 
 - Gap detection: sections.yaml required_evidence converted to structured dicts (sba_loan)
