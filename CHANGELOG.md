@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.6.0
+
+- Gap detection: sections.yaml required_evidence converted to structured dicts (sba_loan)
+- Gap UX: generate cell shows section-grouped summary, Refine tab groups gaps by section with Fill this gap button
+- Plans table gap column shows "N gaps" label
+- Profile cell note corrected: starter can set name and description
+
 ## 0.5.0
 
 - Profiles: pro users can create multiple named profiles, each with its own locked topics and Drive folder
