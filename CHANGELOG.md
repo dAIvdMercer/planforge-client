@@ -2,6 +2,7 @@
 
 ## 0.6.4
 
+
 - My Plans: Gaps tab with section sub-tabs and Fill this gap button (loads gap into Refine tab)
 
 ## 0.6.3
