@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.7.0
+
+- My Plans: gap items rendered as cards (label + why_it_matters + Fill this gap button at bottom-left)
+
+## 0.6.9
+
+- My Plans: refine pills keyed by section_id; /refine uses ordinal position for deterministic section extraction (no LLM heading drift)
+
 ## 0.6.8
 
 - My Plans: gap panel instruction clarifies to scroll down and refine with AI
